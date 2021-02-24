@@ -1,4 +1,8 @@
-### Hi 👋,I am Paula a software engineer and this is my website : http://www.paulageorge.space/
+### Hi 👋,I am Paula a software engineer.
+
+My website : http://www.paulageorge.space/
+My Linkedin : https://www.linkedin.com/in/paula-gawargious-210348164/
+
 <!--
 **Paula2001/Paula2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
