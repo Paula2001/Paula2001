@@ -2,9 +2,9 @@
 
 ## 📫 How to reach me:
 
-Website : https://paula-george.guru
-Linkedin : https://www.linkedin.com/in/paula-gawargious-210348164/
-Email : polagorge@gmail.com
+# Website : https://paula-george.guru
+# Linkedin : https://www.linkedin.com/in/paula-gawargious-210348164/
+# Email : polagorge@gmail.com
 
 
 <!--
