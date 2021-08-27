@@ -1,7 +1,11 @@
 ### Hi 👋,I am Paula a software engineer.
 
-My website : http://www.paulageorge.space/
-My Linkedin : https://www.linkedin.com/in/paula-gawargious-210348164/
+## 📫 How to reach me:
+
+Website : https://paula-george.guru
+Linkedin : https://www.linkedin.com/in/paula-gawargious-210348164/
+Email : polagorge@gmail.com
+
 
 <!--
 **Paula2001/Paula2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
