@@ -1,7 +1,7 @@
 # Hi 👋,I am Paula a software engineer.
+[![Hits](https://hits.sh/github.com/Paula2001.svg?color=000000)](https://hits.sh/github.com/Paula2001/)
 
 ## 📫 How to reach me:
-[![Hits](https://hits.sh/github.com/Paula2001.svg?color=000000)](https://hits.sh/github.com/Paula2001/)
 ### Website : https://paula-george.guru
 ### Linkedin : https://www.linkedin.com/in/paula-gawargious-210348164/
 ### Email : polagorge@gmail.com
